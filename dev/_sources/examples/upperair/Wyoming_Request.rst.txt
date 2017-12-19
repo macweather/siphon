@@ -14,8 +14,8 @@ the Wyoming upper air archive.
 .. code-block:: python
 
 
-
     from datetime import datetime
+
     from siphon.simplewebservice.wyoming import WyomingUpperAir
 
 
@@ -188,7 +188,7 @@ of the dataframe.
     hPa
 
 
-**Total running time of the script:** ( 0 minutes  0.947 seconds)
+**Total running time of the script:** ( 0 minutes  1.127 seconds)
 
 
 
